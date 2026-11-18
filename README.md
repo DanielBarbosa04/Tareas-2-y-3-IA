@@ -2,7 +2,7 @@
 
 Implementación de **A\*** sobre una cuadrícula con obstáculos, con una visualización paso a paso en Pygame que permite ver cómo se expande la frontera de búsqueda, comparada contra **BFS** (búsqueda no informada) sobre el mismo laberinto.
 
-> **Video de la demo:** _(pega aquí el enlace)_
+> Video de la demo: [Ver demostración en YouTube](https://www.youtube.com/watch?v=t3Nc3RGpYNU)
 
 **Autor:** _(Daniel Alejandro Barbosa Ramírez)_ · **Materia:** _(Inteligencia Artificial)_ · **Opción elegida:** A (Búsqueda A\*)
 
